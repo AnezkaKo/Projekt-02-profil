@@ -36,6 +36,7 @@ align-items: stretch;
 }
 .foto{
   width: 100%;
+  display:block
 }
 
 .logo{
@@ -44,6 +45,7 @@ align-items: stretch;
   top: 95%;
   right:10%;
   border-radius: 50%;
+  
 }
 
 h1{
